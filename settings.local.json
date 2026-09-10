@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(javac -version)",
+      "PowerShell(java -version)"
+    ]
+  }
+}
