@@ -1,0 +1,5 @@
+# Os fontes sao gravados em LF; o Git converte para CRLF no Windows se preciso.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
