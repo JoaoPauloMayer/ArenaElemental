@@ -1,0 +1,15 @@
+build/
+build-test/
+out/
+*.class
+*.jar
+
+# Windows
+desktop.ini
+Thumbs.db
+
+# Cenarios de batalha: as imagens desta pasta sao arte de terceiros (varias com
+# assinatura do artista visivel), e o repositorio e publico. O jogo funciona sem
+# elas -- a arena volta ao gradiente pintado. Se voce tiver os direitos das
+# imagens, apague a linha abaixo para versiona-las.
+imagens de referencia/
